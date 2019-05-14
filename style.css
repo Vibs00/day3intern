@@ -26,4 +26,20 @@
 
 .dongsangs{   
     list-style-type: none;
+    padding: 0;
+}
+
+.leader{
+    background-color: burlywood;
+    padding: 30px;
+    margin: 3px;
+    border-style: dashed;
+    border-width: thick;
+    border-color: black;
+}
+
+.star{
+    background-image: url("https://cdn4.iconfinder.com/data/icons/cc_mono_icon_set/blacks/48x48/star_fav.png");
+    background-repeat: repeat-y;
+    background-position-x: right;
 }
