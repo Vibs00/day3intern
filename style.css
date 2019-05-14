@@ -18,3 +18,12 @@
     color : black;
     background-color: aliceblue;
 }
+
+.hyungs{
+    color: red;
+    font-size: 40px;
+}
+
+.dongsangs{   
+    list-style-type: none;
+}
