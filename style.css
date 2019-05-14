@@ -27,6 +27,8 @@
 .dongsangs{   
     list-style-type: none;
     padding: 0;
+    width: 50%;
+    background-color: goldenrod;
 }
 
 .leader{
@@ -42,4 +44,9 @@
     background-image: url("https://cdn4.iconfinder.com/data/icons/cc_mono_icon_set/blacks/48x48/star_fav.png");
     background-repeat: repeat-y;
     background-position-x: right;
+}
+
+li:hover{
+    background-color: white;
+    cursor: pointer;
 }
