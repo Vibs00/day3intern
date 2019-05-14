@@ -11,4 +11,10 @@
 #p3{
     color: rgb(53, 0, 93);
     background-color: indianred;
+    text-align: center;
+}
+
+.p2{
+    color : black;
+    background-color: aliceblue;
 }
