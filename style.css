@@ -17,6 +17,9 @@
 .p2{
     color : black;
     background-color: aliceblue;
+    border-style: solid;
+    border-width: thin;
+    border-color: aliceblue; 
 }
 
 .hyungs{
@@ -33,6 +36,9 @@
     border-radius: 10px;
     border-width: thin;
     border-color: black;
+    background-image: url("https://cdn4.iconfinder.com/data/icons/cc_mono_icon_set/blacks/48x48/star_fav.png");
+    background-repeat: repeat-y;
+    background-position-x: right;
 }
 
 .leader{
@@ -55,4 +61,10 @@ li:hover{
     cursor: pointer;
     transform: translate(50px);
     opacity: .6;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
